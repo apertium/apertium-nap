@@ -1,0 +1,16 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-nap.nap.lexc -text
+/apertium-nap.nap.rlx -text
+/apertium-nap.nap.twol -text
+/apertium-nap.pc.in -text
+/apertium-nap.post-nap.dix -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
+/nap.prob -text svneol=unset#unset
