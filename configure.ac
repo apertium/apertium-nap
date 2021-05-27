@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Neapolitan], [0.1.0], [memduhg@gmail.com], [apertium-nap], [http://wiki.apertium.org/wiki/Apertium-nap])
+AC_INIT([Apertium Neapolitan], [0.1.0], [memduhg@gmail.com], [apertium-nap], [https://wiki.apertium.org/wiki/Apertium-nap])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
